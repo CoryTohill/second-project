@@ -1,4 +1,12 @@
 h1 {
-	color: blue;
+	color: #C0EAE8;
   display: inline-block;
+}
+
+header {
+  text-align: center;
+}
+
+body {
+  background-color: #29A8A2;
 }
